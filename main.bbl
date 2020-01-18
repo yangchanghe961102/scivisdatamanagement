@@ -1,0 +1,2463 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{AkandeR13}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=070dad032a785cb2fb85d447d93befbe}{%
+           family={Akande},
+           familyi={A\bibinitperiod},
+           given={Oyindamola\bibnamedelima O.},
+           giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=88a805584a61ef4b3d9cc9ca86f5b5db}{%
+           family={Rhodes},
+           familyi={R\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{705e5242ab76c525d10f8f9816d65616}
+      \strng{fullhash}{705e5242ab76c525d10f8f9816d65616}
+      \strng{authornamehash}{705e5242ab76c525d10f8f9816d65616}
+      \strng{authorfullhash}{705e5242ab76c525d10f8f9816d65616}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2013 IEEE International Conference on Big Data}
+      \field{title}{Iteration Aware Prefetching for Unstructured Grids}
+      \field{year}{2013}
+      \field{pages}{219\bibrangedash 227}
+      \range{pages}{9}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/AkandeR13.pdf:PDF
+      \endverb
+    \endentry
+    \entry{BergerB87}{article}{}
+      \name{author}{2}{}{%
+        {{hash=195eabe4de5d674dfd2cfc8a56a4d016}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Marsha\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c1ab80d964bb0702485a06f5bc4de360}{%
+           family={Bokhari},
+           familyi={B\bibinitperiod},
+           given={Shahid\bibnamedelima H.},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c6ee0cec9829ac672112ab37bb013bb}
+      \strng{fullhash}{2c6ee0cec9829ac672112ab37bb013bb}
+      \strng{authornamehash}{2c6ee0cec9829ac672112ab37bb013bb}
+      \strng{authorfullhash}{2c6ee0cec9829ac672112ab37bb013bb}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Trans. Computers}
+      \field{number}{5}
+      \field{title}{A Partitioning Strategy for Nonuniform Problems on Multiprocessors}
+      \field{volume}{36}
+      \field{year}{1987}
+      \field{pages}{570\bibrangedash 580}
+      \range{pages}{11}
+    \endentry
+    \entry{bi20142}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=4442eb854c31c325035f517445c8db07}{%
+           family={Bi},
+           familyi={B\bibinitperiod},
+           given={Chongke},
+           giveni={C\bibinitperiod}}}%
+        {{hash=19158b87fe3e841791d18e81a2e8e11d}{%
+           family={Ono},
+           familyi={O\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{444fad2ad3aa0b8d83032447f987841f}
+      \strng{fullhash}{444fad2ad3aa0b8d83032447f987841f}
+      \strng{authornamehash}{444fad2ad3aa0b8d83032447f987841f}
+      \strng{authorfullhash}{444fad2ad3aa0b8d83032447f987841f}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 IEEE Pacific Visualization Symposium}
+      \field{title}{2-3-4 combination for parallel compression on the K computer}
+      \field{year}{2014}
+      \field{pages}{281\bibrangedash 285}
+      \range{pages}{5}
+    \endentry
+    \entry{blumofe1999scheduling}{article}{}
+      \name{author}{2}{}{%
+        {{hash=051cb5146e3000f52e1c07b82f79c759}{%
+           family={Blumofe},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima D},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=cc52123efbc319dd8b741b29399a7d1e}{%
+           family={Leiserson},
+           familyi={L\bibinitperiod},
+           given={Charles\bibnamedelima E},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{6eaffb042a01fd59f4815d9b771f5519}
+      \strng{fullhash}{6eaffb042a01fd59f4815d9b771f5519}
+      \strng{authornamehash}{6eaffb042a01fd59f4815d9b771f5519}
+      \strng{authorfullhash}{6eaffb042a01fd59f4815d9b771f5519}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the ACM (JACM)}
+      \field{number}{5}
+      \field{title}{Scheduling multithreaded computations by work stealing}
+      \field{volume}{46}
+      \field{year}{1999}
+      \field{pages}{720\bibrangedash 748}
+      \range{pages}{29}
+    \endentry
+    \entry{BogomjakovG01}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9ac05c6369858ce374f0eccd7a9b41c8}{%
+           family={Bogomjakov},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=db5662776dbcffbfde1a81472e70b09c}{%
+           family={Gotsman},
+           familyi={G\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5b88d32aeef8de5fe294ad13145485b}
+      \strng{fullhash}{e5b88d32aeef8de5fe294ad13145485b}
+      \strng{authornamehash}{e5b88d32aeef8de5fe294ad13145485b}
+      \strng{authorfullhash}{e5b88d32aeef8de5fe294ad13145485b}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Graphics Interface 2001 Conference, Ottawa, Ontario, Canada}
+      \field{title}{Universal Rendering Sequences for Transparent Vertex Caching of Progressive Meshes}
+      \field{year}{2001}
+      \field{pages}{81\bibrangedash 90}
+      \range{pages}{10}
+    \endentry
+    \entry{BrandesP06}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=392b457d9bac1ed69366176e7857d7e9}{%
+           family={Brandes},
+           familyi={B\bibinitperiod},
+           given={Ulrik},
+           giveni={U\bibinitperiod}}}%
+        {{hash=a633e9b2ba4eb65a4c99dd57ea8e6a2b}{%
+           family={Pich},
+           familyi={P\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{054771cdce10fceed3b01f48763d69e2}
+      \strng{fullhash}{054771cdce10fceed3b01f48763d69e2}
+      \strng{authornamehash}{054771cdce10fceed3b01f48763d69e2}
+      \strng{authorfullhash}{054771cdce10fceed3b01f48763d69e2}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Graph Drawing, 14th International Symposium, {GD} 2006, Karlsruhe, Germany}
+      \field{title}{Eigensolver Methods for Progressive Multidimensional Scaling of Large Data}
+      \field{year}{2006}
+      \field{pages}{42\bibrangedash 53}
+      \range{pages}{12}
+    \endentry
+    \entry{BruckschenKHJ01}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=4973e2c1c2596d925b12e68232417b76}{%
+           family={Bruckschen},
+           familyi={B\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9d499d33171c7c7fc94e1498bd59d4bd}{%
+           family={Kuester},
+           familyi={K\bibinitperiod},
+           given={Falko},
+           giveni={F\bibinitperiod}}}%
+        {{hash=cf9456543034e2f1ea8e7e13b291d974}{%
+           family={Hamann},
+           familyi={H\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=fd7adb1625f6252e8fb527dd62f637db}{%
+           family={Joy},
+           familyi={J\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{9127b0190480fa10996d9365ba8ba4d0}
+      \strng{fullhash}{a167e8970e47676fc2d57ab70055d2cd}
+      \strng{authornamehash}{9127b0190480fa10996d9365ba8ba4d0}
+      \strng{authorfullhash}{a167e8970e47676fc2d57ab70055d2cd}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the IEEE 2001 Symposium on Parallel and Large-Data Visualization and Graphics}
+      \field{title}{Real-Time Out-of-core Visualization of Particle Traces}
+      \field{year}{2001}
+      \field{pages}{45\bibrangedash 50}
+      \range{pages}{6}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/BruckschenKHJ01.pdf:PDF
+      \endverb
+    \endentry
+    \entry{BynaCSTG08}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=122eaa35d011f82965146090405effa7}{%
+           family={Byna},
+           familyi={B\bibinitperiod},
+           given={Surendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7608dbf6c54dadf166f77046db3c64a6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4929f87f515aa4e654d1802d315c1133}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xian{-}He},
+           giveni={X\bibinitperiod}}}%
+        {{hash=3365d7bb82a8874f85afafdcd84cb6b5}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={Rajeev},
+           giveni={R\bibinitperiod}}}%
+        {{hash=232270861ce704a354417bfda0acdb1b}{%
+           family={Gropp},
+           familyi={G\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ed087f99aa5a075e07080b01fa036ff}
+      \strng{fullhash}{cc0ee2a0aa56d66f3b78e9e64fb3b8be}
+      \strng{authornamehash}{6ed087f99aa5a075e07080b01fa036ff}
+      \strng{authorfullhash}{cc0ee2a0aa56d66f3b78e9e64fb3b8be}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC08: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{title}{Parallel {I/O} Prefetching Using {MPI} File Caching and {I/O} Signatures}
+      \field{year}{2008}
+      \field{pages}{44:1\bibrangedash 44:12}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/BynaCSTG08.pdf:PDF
+      \endverb
+    \endentry
+    \entry{CabralL93}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0810e5c7fd668350d3410a39fb5db5d8}{%
+           family={Cabral},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=de8d90712b36221fd6fea96dcaa1f4bc}{%
+           family={Leedom},
+           familyi={L\bibinitperiod},
+           given={Leith\bibnamedelima Casey},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{77e8818681e1c0e6c268668fb0e5da9d}
+      \strng{fullhash}{77e8818681e1c0e6c268668fb0e5da9d}
+      \strng{authornamehash}{77e8818681e1c0e6c268668fb0e5da9d}
+      \strng{authorfullhash}{77e8818681e1c0e6c268668fb0e5da9d}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of SIGGRAPH 1993}
+      \field{title}{Imaging Vector Fields Using Line Integral Convolution}
+      \field{year}{1993}
+      \field{pages}{263\bibrangedash 270}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/CabralL93.pdf:PDF
+      \endverb
+    \endentry
+    \entry{CarnsLRT00}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=3675a5f8c3f82220d211dea11b49dc45}{%
+           family={Carns},
+           familyi={C\bibinitperiod},
+           given={Philip\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=43e4a51ac692c6f8a0155222ecdb344a}{%
+           family={III},
+           familyi={I\bibinitperiod},
+           given={Walter\bibnamedelimb B.\bibnamedelimi Ligon},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=c96af3db2c49b6a8ae026299b6a37efa}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3365d7bb82a8874f85afafdcd84cb6b5}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={Rajeev},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a070d5e6eaa4d4c85014b8c2896a1783}
+      \strng{fullhash}{a699a833b392e18135e82cb39ee0c63a}
+      \strng{authornamehash}{a070d5e6eaa4d4c85014b8c2896a1783}
+      \strng{authorfullhash}{a699a833b392e18135e82cb39ee0c63a}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{4th Annual Linux Showcase {\&} Conference 2000}
+      \field{title}{{PVFS:} {A} Parallel File System for Linux Clusters}
+      \field{year}{2000}
+    \endentry
+    \entry{CatalyurekBDBHR07}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=f8e58570c45c38290b7a1f72276c7a6f}{%
+           family={\c{C}ataly\"{u}rek},
+           familyi={\c{C}\bibinitperiod},
+           given={\"{U}mit\bibnamedelima V.},
+           giveni={\"{U}\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=0811314b69119e24d39a918fa2eca7d9}{%
+           family={Boman},
+           familyi={B\bibinitperiod},
+           given={Erik\bibnamedelima G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=34080967fdee3d76cf06f7a14b300e1a}{%
+           family={Devine},
+           familyi={D\bibinitperiod},
+           given={Karen\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c4d4c48079a45c70e0eddfb9f2fe0be3}{%
+           family={Bozdag},
+           familyi={B\bibinitperiod},
+           given={Doruk},
+           giveni={D\bibinitperiod}}}%
+        {{hash=18cc8bbebfbf8ff117cd21e83b05edd9}{%
+           family={Heaphy},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9b2c8a00d0dca1c54a502568346ea779}{%
+           family={Riesen},
+           familyi={R\bibinitperiod},
+           given={Lee\bibnamedelima Ann},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{827b83660e86949b74919ad59fa0d95e}
+      \strng{fullhash}{8288b4e20fca1b4b487b65240566fdf0}
+      \strng{authornamehash}{827b83660e86949b74919ad59fa0d95e}
+      \strng{authorfullhash}{8288b4e20fca1b4b487b65240566fdf0}
+      \field{sortinit}{\c{C}}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IPDPS07: Proceedings of IEEE International Symposium on Parallel and Distributed Processing}
+      \field{title}{Hypergraph-based Dynamic Load Balancing for Adaptive Scientific Computations}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+    \endentry
+    \entry{ChenS13}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=5d64a5e3b082ff10fe600596e0e18a03}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chun{-}Ming},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9422df4cff1e95377df3e3a23bac2ffb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han{-}Wei},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fb14e18ada5f6f2a79b7b30023bcab0}
+      \strng{fullhash}{4fb14e18ada5f6f2a79b7b30023bcab0}
+      \strng{authornamehash}{4fb14e18ada5f6f2a79b7b30023bcab0}
+      \strng{authorfullhash}{4fb14e18ada5f6f2a79b7b30023bcab0}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Symposium on Large Data Analysis and Visualization 2013}
+      \field{title}{Graph-based Seed Scheduling for Out-of-core {FTLE} and Pathline computation}
+      \field{year}{2013}
+      \field{pages}{15\bibrangedash 23}
+      \range{pages}{9}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/ChenS13.pdf:PDF
+      \endverb
+    \endentry
+    \entry{ChenXLS12}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=5d64a5e3b082ff10fe600596e0e18a03}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chun{-}Ming},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4f0f059e7deaa703791299fe09aedbbe}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lijie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cfbff746dc33af5ffdf1721ec0b82ddd}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Teng{-}Yok},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9422df4cff1e95377df3e3a23bac2ffb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han{-}Wei},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{45621bc2e8f2bd41032c806b51e42aee}
+      \strng{fullhash}{8997d74eb0c86e3cfdc2a908cc715d50}
+      \strng{authornamehash}{45621bc2e8f2bd41032c806b51e42aee}
+      \strng{authorfullhash}{8997d74eb0c86e3cfdc2a908cc715d50}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Pacific Visualization Symposium 2012}
+      \field{title}{A Flow-Guided File Layout for Out-of-core Streamline Computation}
+      \field{year}{2012}
+      \field{pages}{145\bibrangedash 152}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/ChenXLS12.pdf:PDF
+      \endverb
+    \endentry
+    \entry{ChenNLS12}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=5d64a5e3b082ff10fe600596e0e18a03}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chun{-}Ming},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b63d32c27cc6a08e135626415d0f1aff}{%
+           family={Nouanesengsy},
+           familyi={N\bibinitperiod},
+           given={Boonthanome},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cfbff746dc33af5ffdf1721ec0b82ddd}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Teng{-}Yok},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9422df4cff1e95377df3e3a23bac2ffb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han{-}Wei},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{45621bc2e8f2bd41032c806b51e42aee}
+      \strng{fullhash}{491b95d7c499f90e610b4785fa87c11b}
+      \strng{authornamehash}{45621bc2e8f2bd41032c806b51e42aee}
+      \strng{authorfullhash}{491b95d7c499f90e610b4785fa87c11b}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Symposium on Large Data Analysis and Visualization 2012}
+      \field{title}{Flow-Guided File Layout for Out-of-core Pathline Computation}
+      \field{year}{2012}
+      \field{pages}{109\bibrangedash 112}
+      \range{pages}{4}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/ChenNLS12.pdf:PDF
+      \endverb
+    \endentry
+    \entry{ChenF08}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=685d97480ebafb5a158e7c3dfdcb69a8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4ffdaee5a87a4ee7411bc4cfb0acf129}{%
+           family={Fujishiro},
+           familyi={F\bibinitperiod},
+           given={Issei},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{41768c234bb381f937913e502bd9b7f1}
+      \strng{fullhash}{41768c234bb381f937913e502bd9b7f1}
+      \strng{authornamehash}{41768c234bb381f937913e502bd9b7f1}
+      \strng{authorfullhash}{41768c234bb381f937913e502bd9b7f1}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Pacific Visualization Symposium 2008}
+      \field{title}{Optimizing Parallel Performance of Streamline Visualization for Large Distributed Flow Datasets}
+      \field{year}{2008}
+      \field{pages}{87\bibrangedash 94}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/ChenF08.pdf:PDF
+      \endverb
+    \endentry
+    \entry{ChenBSTG08}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=7608dbf6c54dadf166f77046db3c64a6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=122eaa35d011f82965146090405effa7}{%
+           family={Byna},
+           familyi={B\bibinitperiod},
+           given={Surendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4929f87f515aa4e654d1802d315c1133}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xian{-}He},
+           giveni={X\bibinitperiod}}}%
+        {{hash=3365d7bb82a8874f85afafdcd84cb6b5}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={Rajeev},
+           giveni={R\bibinitperiod}}}%
+        {{hash=232270861ce704a354417bfda0acdb1b}{%
+           family={Gropp},
+           familyi={G\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8760f6acaf8c0618daf3730ab7a5583}
+      \strng{fullhash}{2758b30639479c4af2ee165fd300fdc1}
+      \strng{authornamehash}{f8760f6acaf8c0618daf3730ab7a5583}
+      \strng{authorfullhash}{2758b30639479c4af2ee165fd300fdc1}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC08: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{title}{Hiding {I/O} Latency with Pre-execution Prefetching for Parallel Applications}
+      \field{year}{2008}
+      \field{pages}{40:1\bibrangedash 40:10}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/ChenBSTG08.pdf:PDF
+      \endverb
+    \endentry
+    \entry{DevineBHHV02}{article}{}
+      \name{author}{5}{}{%
+        {{hash=34080967fdee3d76cf06f7a14b300e1a}{%
+           family={Devine},
+           familyi={D\bibinitperiod},
+           given={Karen\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=0811314b69119e24d39a918fa2eca7d9}{%
+           family={Boman},
+           familyi={B\bibinitperiod},
+           given={Erik\bibnamedelima G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=18cc8bbebfbf8ff117cd21e83b05edd9}{%
+           family={Heaphy},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=bcff0f77a121698d252a7341ab3707e1}{%
+           family={Hendrickson},
+           familyi={H\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=802ecb4db90fd5a3509fa4fb681b2246}{%
+           family={Vaughan},
+           familyi={V\bibinitperiod},
+           given={Courtenay\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6531415311095ed39e6da8547179ab58}
+      \strng{fullhash}{0370ac68c17279e0c0c673e739394aab}
+      \strng{authornamehash}{6531415311095ed39e6da8547179ab58}
+      \strng{authorfullhash}{0370ac68c17279e0c0c673e739394aab}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing in Science and Engineering}
+      \field{number}{2}
+      \field{title}{Zoltan Data Management Services for Parallel Dynamic Applications}
+      \field{volume}{4}
+      \field{year}{2002}
+      \field{pages}{90\bibrangedash 96}
+      \range{pages}{7}
+    \endentry
+    \entry{DinanLSKN09}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=3107f1bee090f5fdef74571799798e76}{%
+           family={Dinan},
+           familyi={D\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=18b3d9f6607e43c4efc5b48bc33851a9}{%
+           family={Larkins},
+           familyi={L\bibinitperiod},
+           given={D.\bibnamedelimi Brian},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=7b2bdb8e83011a0f8ac727f130fc01e8}{%
+           family={Sadayappan},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=56c8228440ce249f6f5dc97ea63ba360}{%
+           family={Krishnamoorthy},
+           familyi={K\bibinitperiod},
+           given={Sriram},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e6b1f92b44a903d9e1cb9f89013eb0c4}{%
+           family={Nieplocha},
+           familyi={N\bibinitperiod},
+           given={Jarek},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b11eaeb99658fcc927b8c2a2c12bbb9b}
+      \strng{fullhash}{56854ad46b6d9e50ff7792ffb8654675}
+      \strng{authornamehash}{b11eaeb99658fcc927b8c2a2c12bbb9b}
+      \strng{authorfullhash}{56854ad46b6d9e50ff7792ffb8654675}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC09: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{title}{Scalable Work Stealing}
+      \field{year}{2009}
+      \field{pages}{53:1\bibrangedash 53:11}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/DinanLSKN09.pdf:PDF
+      \endverb
+    \endentry
+    \entry{EdmundsLCMZW12}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3c2cfb3e59e632aeeccb0d758c7562d5}{%
+           family={Edmunds},
+           familyi={E\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b88800a7dd26a92ed16070fa1a334e9a}{%
+           family={Laramee},
+           familyi={L\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5ed4e36c48f533c473b9881aab0667a1}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guoning},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d53cbbb9df2e2a4c4e74dfde899db25f}{%
+           family={Max},
+           familyi={M\bibinitperiod},
+           given={Nelson},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0623dbc48f17b7ab14cb777bd06359f0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ddfcf636fe0f65b7e7300d5a22336e7c}{%
+           family={Ware},
+           familyi={W\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{756a5568eadd7e87510e0b12835a7d8f}
+      \strng{fullhash}{b52b3e4fdfef475acc2e15d0daab4d6f}
+      \strng{authornamehash}{756a5568eadd7e87510e0b12835a7d8f}
+      \strng{authorfullhash}{b52b3e4fdfef475acc2e15d0daab4d6f}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{local-range analysis}
+      \field{journaltitle}{Computers {\&} Graphics}
+      \field{number}{8}
+      \field{title}{Surface-based Flow Visualization}
+      \field{volume}{36}
+      \field{year}{2012}
+      \field{pages}{974\bibrangedash 990}
+      \range{pages}{17}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/EdmundsLCMZW12.pdf:PDF
+      \endverb
+    \endentry
+    \entry{ellsworth2004interactive}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=bb60d033d8907b18e71157a1ec78a1a7}{%
+           family={Ellsworth},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5a15e010f941245fdd60019de42d135f}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=248a9f488f8501e03121ac4c8ddf78f5}{%
+           family={Moran},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{5c20b4075adef4d50e71deb03da87424}
+      \strng{fullhash}{5c20b4075adef4d50e71deb03da87424}
+      \strng{authornamehash}{5c20b4075adef4d50e71deb03da87424}
+      \strng{authorfullhash}{5c20b4075adef4d50e71deb03da87424}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the conference on Visualization'04}
+      \field{title}{Interactive terascale particle visualization}
+      \field{year}{2004}
+      \field{pages}{353\bibrangedash 360}
+      \range{pages}{8}
+    \endentry
+    \entry{EllsworthGM04}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=bb60d033d8907b18e71157a1ec78a1a7}{%
+           family={Ellsworth},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5a15e010f941245fdd60019de42d135f}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=89450b8b3a7a24aea43f90ad0eff8e80}{%
+           family={Moran},
+           familyi={M\bibinitperiod},
+           given={Patrick\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{10e11ce8cb5d71085659ed00eebb6798}
+      \strng{fullhash}{10e11ce8cb5d71085659ed00eebb6798}
+      \strng{authornamehash}{10e11ce8cb5d71085659ed00eebb6798}
+      \strng{authorfullhash}{10e11ce8cb5d71085659ed00eebb6798}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Visualization 2004}
+      \field{title}{Interactive Terascale Particle Visualization}
+      \field{year}{2004}
+      \field{pages}{353\bibrangedash 360}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/EllsworthGM04.pdf:PDF
+      \endverb
+    \endentry
+    \entry{fout2012adaptive}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7df385603799d04b93dc42d783af5a8f}{%
+           family={Fout},
+           familyi={F\bibinitperiod},
+           given={Nathaniel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f806ae3b09e379a16d2b765c00924d56}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Kwan-Liu},
+           giveni={K\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{82348ecc5fb0772751ceb4cd3dbcec0b}
+      \strng{fullhash}{82348ecc5fb0772751ceb4cd3dbcec0b}
+      \strng{authornamehash}{82348ecc5fb0772751ceb4cd3dbcec0b}
+      \strng{authorfullhash}{82348ecc5fb0772751ceb4cd3dbcec0b}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{12}
+      \field{title}{An adaptive prediction-based approach to lossless compression of floating-point volume data}
+      \field{volume}{18}
+      \field{year}{2012}
+      \field{pages}{2295\bibrangedash 2304}
+      \range{pages}{10}
+    \endentry
+    \entry{GarthGTH07}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c1534b02f665d5c6b636608b6fd40a8e}{%
+           family={Garth},
+           familyi={G\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b9a43e5f788af7aeb43e91370f9eb657}{%
+           family={Gerhardt},
+           familyi={G\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a6b649e3df787c619c95578ad3ebb9a7}{%
+           family={Tricoche},
+           familyi={T\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{hash=340c04bf0d05579e01e13e7be6554a4e}{%
+           family={Hagen},
+           familyi={H\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{66aa75b06f3f7b6e91c4d820c35d7054}
+      \strng{fullhash}{edaf6c5a54ed7eb63baf14fa60e1fa89}
+      \strng{authornamehash}{66aa75b06f3f7b6e91c4d820c35d7054}
+      \strng{authorfullhash}{edaf6c5a54ed7eb63baf14fa60e1fa89}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Computer Graphics and Applications}
+      \field{number}{6}
+      \field{title}{Efficient Computation and Visualization of Coherent Structures in Fluid Flow Applications}
+      \field{volume}{13}
+      \field{year}{2007}
+      \field{pages}{1464\bibrangedash 1471}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/GarthGTH07.pdf:PDF
+      \endverb
+    \endentry
+    \entry{GuoZLLYHMP14}{article}{}
+      \name{author}{8}{}{%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9aca7f001a4c2f1a7040984fa5f91cff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3d0969b60deb30ffae63532306c7856b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Richen},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9b70d85f003fa30a5cae684a692c6e97}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3b1544b91d79aafd2413c87d0b2a8c93}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Xiangfei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c3066c0b67c8850bf5393b20261255d1}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jingshan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5043732505d7f510093fb12557f104d2}
+      \strng{fullhash}{7ca6e3f922a69bc1dbb77c5b36c551bd}
+      \strng{authornamehash}{5043732505d7f510093fb12557f104d2}
+      \strng{authorfullhash}{7ca6e3f922a69bc1dbb77c5b36c551bd}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{12}
+      \field{title}{Advection-Based Sparse Data Management for Visualizing Unsteady Flow}
+      \field{volume}{20}
+      \field{year}{2014}
+      \field{pages}{2555\bibrangedash 2564}
+      \range{pages}{10}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/GuoZLLYHMP14.pdf:PDF
+      \endverb
+    \endentry
+    \entry{guo2014advection}{article}{}
+      \name{author}{8}{}{%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9aca7f001a4c2f1a7040984fa5f91cff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3d0969b60deb30ffae63532306c7856b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Richen},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9b70d85f003fa30a5cae684a692c6e97}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3b1544b91d79aafd2413c87d0b2a8c93}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Xiangfei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c3066c0b67c8850bf5393b20261255d1}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Jingshan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5043732505d7f510093fb12557f104d2}
+      \strng{fullhash}{7ca6e3f922a69bc1dbb77c5b36c551bd}
+      \strng{authornamehash}{5043732505d7f510093fb12557f104d2}
+      \strng{authorfullhash}{7ca6e3f922a69bc1dbb77c5b36c551bd}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{12}
+      \field{title}{Advection-based sparse data management for visualizing unsteady flow}
+      \field{volume}{20}
+      \field{year}{2014}
+      \field{pages}{2555\bibrangedash 2564}
+      \range{pages}{10}
+    \endentry
+    \entry{GuoYHZ13}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a9b628c460310919486b77fdff4005f9}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Xiaomin},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{5043732505d7f510093fb12557f104d2}
+      \strng{fullhash}{b0f60afde6e09c96f75b59acce752270}
+      \strng{authornamehash}{5043732505d7f510093fb12557f104d2}
+      \strng{authorfullhash}{b0f60afde6e09c96f75b59acce752270}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{12}
+      \field{title}{Coupled Ensemble Flow Line Advection and Analysis}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{2733\bibrangedash 2742}
+      \range{pages}{10}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/GuoYHZ13.pdf:PDF
+      \endverb
+    \endentry
+    \entry{GuoHSZHY14}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4734c59dbdcbc1ce55543cc30c2e35f8}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=35788cfc991bb2dc48c6b32407baa9d9}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Qingya},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=9aca7f001a4c2f1a7040984fa5f91cff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{5043732505d7f510093fb12557f104d2}
+      \strng{fullhash}{dd08e5b7ea631cd50b7fe3529ab7c770}
+      \strng{authornamehash}{5043732505d7f510093fb12557f104d2}
+      \strng{authorfullhash}{dd08e5b7ea631cd50b7fe3529ab7c770}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Pacific Visualization Symposium 2014}
+      \field{title}{Scalable Lagrangian-Based Attribute Space Projection for Multivariate Unsteady Flow Data}
+      \field{year}{2014}
+      \field{pages}{33\bibrangedash 40}
+      \range{pages}{8}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/GuoHSZHY14.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Guo2017WL}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c2b7da20429510015683c686834eebf7}{%
+           family={{Guo}},
+           familyi={G\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=92aa6b8419e8158a0f074b20ec910f14}{%
+           family={{Wang}},
+           familyi={W\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=3bdff36d59bfdb518667455de2a423b5}{%
+           family={{Li}},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{80e2369b3b9a53ea1c3080040f8191c8}
+      \strng{fullhash}{80e2369b3b9a53ea1c3080040f8191c8}
+      \strng{authornamehash}{80e2369b3b9a53ea1c3080040f8191c8}
+      \strng{authorfullhash}{80e2369b3b9a53ea1c3080040f8191c8}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 18th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT)}
+      \field{issn}{null}
+      \field{month}{12}
+      \field{title}{Feature-Based Adaptive Block Partition Method for Data Prefetching in Streamline Visualization}
+      \field{year}{2017}
+      \field{pages}{510\bibrangedash 515}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/PDCAT.2017.00087
+      \endverb
+    \endentry
+    \entry{Haller2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=60b58400f1ee801211a968ce965c35f6}{%
+           family={Haller},
+           familyi={H\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{60b58400f1ee801211a968ce965c35f6}
+      \strng{fullhash}{60b58400f1ee801211a968ce965c35f6}
+      \strng{authornamehash}{60b58400f1ee801211a968ce965c35f6}
+      \strng{authorfullhash}{60b58400f1ee801211a968ce965c35f6}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physica D: Nonlinear Phenomena}
+      \field{number}{4}
+      \field{title}{Distinguished material surfaces and coherent structures in three-dimensional fluid flows}
+      \field{volume}{149}
+      \field{year}{2001}
+      \field{pages}{248\bibrangedash 277}
+      \range{pages}{30}
+    \endentry
+    \entry{Hong2018LSTM}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=4130ad0bb3512ba3aa50f5a920553b97}{%
+           family={{Hong}},
+           familyi={H\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9bfa2052b7d90421cd5742cc6bbb7750}{%
+           family={{Zhang}},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ec8a3d8a0774d7caa54de2fe994308e7}{%
+           family={{Yuan}},
+           familyi={Y\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6a9c487f6bb24c03892ddbd20816bb4}
+      \strng{fullhash}{a6a9c487f6bb24c03892ddbd20816bb4}
+      \strng{authornamehash}{a6a9c487f6bb24c03892ddbd20816bb4}
+      \strng{authorfullhash}{a6a9c487f6bb24c03892ddbd20816bb4}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE Pacific Visualization Symposium (PacificVis)}
+      \field{issn}{2165-8773}
+      \field{month}{4}
+      \field{title}{Access Pattern Learning with Long Short-Term Memory for Parallel Particle Tracing}
+      \field{year}{2018}
+      \field{pages}{76\bibrangedash 85}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1109/PacificVis.2018.00018
+      \endverb
+      \keyw{data visualisation;learning (artificial intelligence);neural nets;pattern classification;long short-term memory;access pattern estimation approach;flow field visualization;deep neural networks;strong generalization ability;parallel particle tracing framework;pattern learning;LSTM;Data models;Prefetching;Task analysis;Machine learning;Estimation;Predictive models;Recurrent neural networks;Flow Visualization;Machine Learning;Particle Tracing;Deep Learning}
+    \endentry
+    \entry{hong2017compression}{article}{}
+      \name{author}{5}{}{%
+        {{hash=4734c59dbdcbc1ce55543cc30c2e35f8}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4442eb854c31c325035f517445c8db07}{%
+           family={Bi},
+           familyi={B\bibinitperiod},
+           given={Chongke},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=19158b87fe3e841791d18e81a2e8e11d}{%
+           family={Ono},
+           familyi={O\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{13fa987538103ccdeb60ce97937c7ff4}
+      \strng{fullhash}{991f267f5d668bfe81050482a4af562f}
+      \strng{authornamehash}{13fa987538103ccdeb60ce97937c7ff4}
+      \strng{authorfullhash}{991f267f5d668bfe81050482a4af562f}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Visualization}
+      \field{number}{4}
+      \field{title}{Compression-based integral curve data reuse framework for flow visualization}
+      \field{volume}{20}
+      \field{year}{2017}
+      \field{pages}{859\bibrangedash 874}
+      \range{pages}{16}
+    \endentry
+    \entry{Cluster02}{article}{}
+      \name{author}{1}{}{%
+        {{hash=be3913e8ebb5dc9c924acfce01957249}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Cluster\bibnamedelimb File\bibnamedelima Systems},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{be3913e8ebb5dc9c924acfce01957249}
+      \strng{fullhash}{be3913e8ebb5dc9c924acfce01957249}
+      \strng{authornamehash}{be3913e8ebb5dc9c924acfce01957249}
+      \strng{authorfullhash}{be3913e8ebb5dc9c924acfce01957249}
+      \field{sortinit}{I}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{whitepaper}
+      \field{title}{Lustre: A Scalable, High Performance File System}
+      \field{year}{2002}
+    \endentry
+    \entry{isenburg2005lossless}{article}{}
+      \name{author}{3}{}{%
+        {{hash=57822d84284814c94cd9254f0539d72f}{%
+           family={Isenburg},
+           familyi={I\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6347d7c65093895a710e9e3e4e1dada1}{%
+           family={Lindstrom},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=12f688fcdadc80455f0b4718dd0f7548}{%
+           family={Snoeyink},
+           familyi={S\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0c639501c85e99d6da36744a8f5a322a}
+      \strng{fullhash}{0c639501c85e99d6da36744a8f5a322a}
+      \strng{authornamehash}{0c639501c85e99d6da36744a8f5a322a}
+      \strng{authorfullhash}{0c639501c85e99d6da36744a8f5a322a}
+      \field{sortinit}{I}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer-Aided Design}
+      \field{number}{8}
+      \field{title}{Lossless compression of predicted floating-point geometry}
+      \field{volume}{37}
+      \field{year}{2005}
+      \field{pages}{869\bibrangedash 877}
+      \range{pages}{9}
+    \endentry
+    \entry{JeffreyS08}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2fd376ea3b3a3da11704c0ee86753dcf}{%
+           family={Jeffrey},
+           familyi={J\bibinitperiod},
+           given={Dean},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5b4490947d4e91359646ce3c93cbd2f7}{%
+           family={Sanjay},
+           familyi={S\bibinitperiod},
+           given={Ghemawat},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{02966abef73108a67d683eab3fc2ec10}
+      \strng{fullhash}{02966abef73108a67d683eab3fc2ec10}
+      \strng{authornamehash}{02966abef73108a67d683eab3fc2ec10}
+      \strng{authorfullhash}{02966abef73108a67d683eab3fc2ec10}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{1}
+      \field{title}{MapReduce: Simplified Data Processing on Large Clusters}
+      \field{volume}{51}
+      \field{year}{2008}
+      \field{pages}{107\bibrangedash 113}
+      \range{pages}{7}
+    \endentry
+    \entry{KarniBG02}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=a849f71330047cba6a0595242dfdbcc6}{%
+           family={Karni},
+           familyi={K\bibinitperiod},
+           given={Zachi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=9ac05c6369858ce374f0eccd7a9b41c8}{%
+           family={Bogomjakov},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=db5662776dbcffbfde1a81472e70b09c}{%
+           family={Gotsman},
+           familyi={G\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed511c7576ea2e5001db6fb2cea84350}
+      \strng{fullhash}{ed511c7576ea2e5001db6fb2cea84350}
+      \strng{authornamehash}{ed511c7576ea2e5001db6fb2cea84350}
+      \strng{authorfullhash}{ed511c7576ea2e5001db6fb2cea84350}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{IEEE} Visualization 2002, Boston, MA, {USA.}}
+      \field{title}{Efficient Compression and Rendering of Multi-Resolution Meshes}
+      \field{year}{2002}
+      \field{pages}{347\bibrangedash 354}
+      \range{pages}{8}
+    \endentry
+    \entry{GeorgeV96}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=3db7df6401b206bb040d6735adbe81e2}{%
+           family={Karypis},
+           familyi={K\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=efb90d78e35ff61d3bc639f5c6f3d822}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Vipin},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC, USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{78d3ffe775563bd509dfd1b2150dab33}
+      \strng{fullhash}{78d3ffe775563bd509dfd1b2150dab33}
+      \strng{authornamehash}{78d3ffe775563bd509dfd1b2150dab33}
+      \strng{authorfullhash}{78d3ffe775563bd509dfd1b2150dab33}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC96: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{isbn}{0-89791-854-1}
+      \field{title}{Parallel Multilevel K-way Partitioning Scheme for Irregular Graphs}
+      \field{year}{1996}
+      \field{pages}{35}
+      \range{pages}{1}
+    \endentry
+    \entry{KendallWAPHE11}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=ac96273df752924c6a758ab58e30c41d}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Wesley},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5b6e8ffc4f539a91566f66fa9cad55ea}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jingyuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c2725c11d38d76ad6e96fe8114bda484}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Melissa},
+           giveni={M\bibinitperiod}}}%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b3f5182dc33c9a1d73efeb197f04bd14}{%
+           family={Erickson},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{298f97ab87ce28ef2b810c321b384ee8}
+      \strng{fullhash}{ad136af3382e81c4def5930e8b6a46cf}
+      \strng{authornamehash}{298f97ab87ce28ef2b810c321b384ee8}
+      \strng{authorfullhash}{ad136af3382e81c4def5930e8b6a46cf}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC11: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{title}{Simplified Parallel Domain Traversal}
+      \field{year}{2011}
+      \field{pages}{10:1\bibrangedash 10:11}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/KendallWAPHE11.pdf:PDF
+      \endverb
+    \endentry
+    \entry{KendallHPLR11}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ac96273df752924c6a758ab58e30c41d}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Wesley},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b03d5d87c48e93dd79d84711364ed326}{%
+           family={Latham},
+           familyi={L\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c96af3db2c49b6a8ae026299b6a37efa}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{298f97ab87ce28ef2b810c321b384ee8}
+      \strng{fullhash}{de59442a584b5f5acef875b0468dd81b}
+      \strng{authornamehash}{298f97ab87ce28ef2b810c321b384ee8}
+      \strng{authorfullhash}{de59442a584b5f5acef875b0468dd81b}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Computer Graphics and Applications}
+      \field{number}{6}
+      \field{title}{Toward a General {I/O} Layer for Parallel-Visualization Applications}
+      \field{volume}{31}
+      \field{year}{2011}
+      \field{pages}{6\bibrangedash 10}
+      \range{pages}{5}
+    \endentry
+    \entry{lindstrom2014fixed}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6347d7c65093895a710e9e3e4e1dada1}{%
+           family={Lindstrom},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6347d7c65093895a710e9e3e4e1dada1}
+      \strng{fullhash}{6347d7c65093895a710e9e3e4e1dada1}
+      \strng{authornamehash}{6347d7c65093895a710e9e3e4e1dada1}
+      \strng{authorfullhash}{6347d7c65093895a710e9e3e4e1dada1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE transactions on visualization and computer graphics}
+      \field{number}{12}
+      \field{title}{Fixed-rate compressed floating-point arrays}
+      \field{volume}{20}
+      \field{year}{2014}
+      \field{pages}{2674\bibrangedash 2683}
+      \range{pages}{10}
+    \endentry
+    \entry{LiuGZY16}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=3d0969b60deb30ffae63532306c7856b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Richen},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9aca7f001a4c2f1a7040984fa5f91cff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc0b838e3cd6fcae28f40e4e5c96f54b}
+      \strng{fullhash}{9c09f2215e6eeb702c86e01668d6a214}
+      \strng{authornamehash}{fc0b838e3cd6fcae28f40e4e5c96f54b}
+      \strng{authorfullhash}{9c09f2215e6eeb702c86e01668d6a214}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Pacific Visualization Symposium 2016}
+      \field{title}{Comparative Visualization of Vector Field Ensembles Based on Longest Common Subsequence}
+      \field{year}{2016}
+      \field{pages}{96\bibrangedash 103}
+      \range{pages}{8}
+    \endentry
+    \entry{LuSP14}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=f1d40c0920ee91414cd6bd718c810b85}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Kewei},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9422df4cff1e95377df3e3a23bac2ffb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han{-}Wei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{591d7bb66076b5d89293afff108516d3}
+      \strng{fullhash}{591d7bb66076b5d89293afff108516d3}
+      \strng{authornamehash}{591d7bb66076b5d89293afff108516d3}
+      \strng{authorfullhash}{591d7bb66076b5d89293afff108516d3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC14: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{title}{Scalable Computation of Stream Surfaces on Large Scale Vector Fields}
+      \field{year}{2014}
+      \field{pages}{1008\bibrangedash 1019}
+      \range{pages}{12}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/LuSP14.pdf:PDF
+      \endverb
+    \endentry
+    \entry{MullerCHG13}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=be2e032e0b113c5559efbd4bf2926df7}{%
+           family={M\"{u}ller},
+           familyi={M\bibinitperiod},
+           given={Cornelius},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2665557b2e82611d656c9bdae674150e}{%
+           family={Camp},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a0b1ded9690d05e7d995df7e825891fe}{%
+           family={Hentschel},
+           familyi={H\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c1534b02f665d5c6b636608b6fd40a8e}{%
+           family={Garth},
+           familyi={G\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b79f4dd34b42c46e8e0d557ff4414e15}
+      \strng{fullhash}{6f099ef56204ed19bc8992d390ad144d}
+      \strng{authornamehash}{b79f4dd34b42c46e8e0d557ff4414e15}
+      \strng{authorfullhash}{6f099ef56204ed19bc8992d390ad144d}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Symposium on Large Data Analysis and Visualization 2013}
+      \field{title}{Distributed Parallel Particle Advection using Work Requesting}
+      \field{year}{2013}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/MullerCHG13.pdf:PDF
+      \endverb
+    \endentry
+    \entry{molnar1994a}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b0b08c3ccb8287d64852dd2fd416855d}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2ed8c9d75fddfe0572f0fe569a866063}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bb60d033d8907b18e71157a1ec78a1a7}{%
+           family={Ellsworth},
+           familyi={E\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a3d6ad3f45e7df3d836a90ee70430028}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{6257e441876e5b3e399318afa117182e}
+      \strng{fullhash}{9adfda018f53924742a51f6397913d8d}
+      \strng{authornamehash}{6257e441876e5b3e399318afa117182e}
+      \strng{authorfullhash}{9adfda018f53924742a51f6397913d8d}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Computer Graphics and Applications}
+      \field{number}{4}
+      \field{title}{A sorting classification of parallel rendering}
+      \field{volume}{14}
+      \field{year}{1994}
+      \field{pages}{23\bibrangedash 32}
+      \range{pages}{10}
+    \endentry
+    \entry{MorozovP16}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c5974ad004055b15c70e7bf9bb8cd655}{%
+           family={Morozov},
+           familyi={M\bibinitperiod},
+           given={Dmitriy},
+           giveni={D\bibinitperiod}}}%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{624a64949e479e501ef9c6b3bd0f7f79}
+      \strng{fullhash}{624a64949e479e501ef9c6b3bd0f7f79}
+      \strng{authornamehash}{624a64949e479e501ef9c6b3bd0f7f79}
+      \strng{authorfullhash}{624a64949e479e501ef9c6b3bd0f7f79}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC'16: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis}
+      \field{title}{Efficient delaunay tessellation through {K-D} tree decomposition}
+      \field{year}{2016}
+      \field{pages}{728\bibrangedash 738}
+      \range{pages}{11}
+    \endentry
+    \entry{NiedermeierS96}{article}{}
+      \name{author}{2}{}{%
+        {{hash=50c195d43c7f81644af5ba4232786faf}{%
+           family={Niedermeier},
+           familyi={N\bibinitperiod},
+           given={Rolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=be6c7f12620ef1a8d1d85d96d476a158}{%
+           family={Sanders},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e448cf70d113514b7c1a6175277fabf3}
+      \strng{fullhash}{e448cf70d113514b7c1a6175277fabf3}
+      \strng{authornamehash}{e448cf70d113514b7c1a6175277fabf3}
+      \strng{authorfullhash}{e448cf70d113514b7c1a6175277fabf3}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Univ., Fak. f\"{u}r Informatik}
+      \field{title}{On the Manhattan-Distance Between Points on Space-Filling Mesh-Indexings}
+      \field{year}{1996}
+    \endentry
+    \entry{NouanesengsyLS11}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b63d32c27cc6a08e135626415d0f1aff}{%
+           family={Nouanesengsy},
+           familyi={N\bibinitperiod},
+           given={Boonthanome},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cfbff746dc33af5ffdf1721ec0b82ddd}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Teng{-}Yok},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9422df4cff1e95377df3e3a23bac2ffb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han{-}Wei},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{453e6866e83b7eccca5c755d3789611e}
+      \strng{fullhash}{453e6866e83b7eccca5c755d3789611e}
+      \strng{authornamehash}{453e6866e83b7eccca5c755d3789611e}
+      \strng{authorfullhash}{453e6866e83b7eccca5c755d3789611e}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{12}
+      \field{title}{Load-Balanced Parallel Streamline Generation on Large Scale Vector Fields}
+      \field{volume}{17}
+      \field{year}{2011}
+      \field{pages}{1785\bibrangedash 1794}
+      \range{pages}{10}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/NouanesengsyLS11.pdf:PDF
+      \endverb
+    \endentry
+    \entry{NouanesengsyLLSP12}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=b63d32c27cc6a08e135626415d0f1aff}{%
+           family={Nouanesengsy},
+           familyi={N\bibinitperiod},
+           given={Boonthanome},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cfbff746dc33af5ffdf1721ec0b82ddd}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Teng{-}Yok},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f1d40c0920ee91414cd6bd718c810b85}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Kewei},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9422df4cff1e95377df3e3a23bac2ffb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han{-}Wei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d1929c32dfdf00b5c1fe85f60b69205}
+      \strng{fullhash}{f36d9b651f9a0ad5256660445df3e9d1}
+      \strng{authornamehash}{7d1929c32dfdf00b5c1fe85f60b69205}
+      \strng{authorfullhash}{f36d9b651f9a0ad5256660445df3e9d1}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC12: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{title}{Parallel Particle Advection and {FTLE} Computation for Time-Varying Flow Fields}
+      \field{year}{2012}
+      \field{pages}{61:1\bibrangedash 61:11}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/NouanesengsyLLSP12.pdf:PDF
+      \endverb
+    \endentry
+    \entry{PascucciF01}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=75e7a998b4cbe609b37612606fc7ac03}{%
+           family={Pascucci},
+           familyi={P\bibinitperiod},
+           given={Valerio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f48c87fc476647237b58c01dd80d3331}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Randall\bibnamedelima J.},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{32175801bcbab61cd297b1a5072ac19d}
+      \strng{fullhash}{32175801bcbab61cd297b1a5072ac19d}
+      \strng{authornamehash}{32175801bcbab61cd297b1a5072ac19d}
+      \strng{authorfullhash}{32175801bcbab61cd297b1a5072ac19d}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2001 {ACM/IEEE} conference on Supercomputing, Denver, CO, USA}
+      \field{title}{Global Static Indexing for Real-Time Exploration of Very Large Regular Grids}
+      \field{year}{2001}
+      \field{pages}{2}
+      \range{pages}{1}
+    \endentry
+    \entry{PeterkaRNLSKH11}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c96af3db2c49b6a8ae026299b6a37efa}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Robert\bibnamedelima B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b63d32c27cc6a08e135626415d0f1aff}{%
+           family={Nouanesengsy},
+           familyi={N\bibinitperiod},
+           given={Boonthanome},
+           giveni={B\bibinitperiod}}}%
+        {{hash=cfbff746dc33af5ffdf1721ec0b82ddd}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Teng{-}Yok},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9422df4cff1e95377df3e3a23bac2ffb}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han{-}Wei},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ac96273df752924c6a758ab58e30c41d}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Wesley},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c5da7e2c23259cf30044a347312dd769}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e7be828446ebe82f6923c082470f3502}
+      \strng{fullhash}{863ade21a7f8dd93e5ff469a4fa5f237}
+      \strng{authornamehash}{e7be828446ebe82f6923c082470f3502}
+      \strng{authorfullhash}{863ade21a7f8dd93e5ff469a4fa5f237}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IPDPS11: Proceedings of IEEE International Symposium on Parallel and Distributed Processing}
+      \field{title}{A Study of Parallel Particle Tracing for Steady-State and Time-Varying Flow Fields}
+      \field{year}{2011}
+      \field{pages}{580\bibrangedash 591}
+      \range{pages}{12}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/PeterkaRNLSKH11.pdf:PDF
+      \endverb
+    \endentry
+    \entry{PilkingtonB94}{article}{}
+      \name{author}{2}{}{%
+        {{hash=aca0b3574b047f9550886f9340e04e89}{%
+           family={Pilkington},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=64032596bc14a3d7d51451cb5b60c75e}{%
+           family={Baden},
+           familyi={B\bibinitperiod},
+           given={S.\bibnamedelimi B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{49396a1d2fcef07cc686655d9a3f8594}
+      \strng{fullhash}{49396a1d2fcef07cc686655d9a3f8594}
+      \strng{authornamehash}{49396a1d2fcef07cc686655d9a3f8594}
+      \strng{authorfullhash}{49396a1d2fcef07cc686655d9a3f8594}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CSE Technical Report Number CS94-349}
+      \field{title}{Partitioning with Space-Filling Curves}
+      \field{year}{1994}
+    \endentry
+    \entry{ratanaworabhan2006fast}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=33f1d2015a63e252c2861df9bf799886}{%
+           family={Ratanaworabhan},
+           familyi={R\bibinitperiod},
+           given={Paruj},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ef5639b7d7cf512b1d262566b22db204}{%
+           family={Ke},
+           familyi={K\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=71852fa63680f67e564d7c90fa43c33d}{%
+           family={Burtscher},
+           familyi={B\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5ed9d0acf3eeca3c675fe08e9de93000}
+      \strng{fullhash}{5ed9d0acf3eeca3c675fe08e9de93000}
+      \strng{authornamehash}{5ed9d0acf3eeca3c675fe08e9de93000}
+      \strng{authorfullhash}{5ed9d0acf3eeca3c675fe08e9de93000}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Data Compression Conference (DCC'06)}
+      \field{title}{Fast lossless compression of scientific floating-point data}
+      \field{year}{2006}
+      \field{pages}{133\bibrangedash 142}
+      \range{pages}{10}
+    \endentry
+    \entry{RhodesTBS05}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=88a805584a61ef4b3d9cc9ca86f5b5db}{%
+           family={Rhodes},
+           familyi={R\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=787633b3a1ddc024113ea7b85ace7751}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Xuan},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5bed2f1191e1d0cdaff167ff70178b98}{%
+           family={Bergeron},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi Daniel},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f3f480fca9400f7bd713899c983807b2}{%
+           family={Sparr},
+           familyi={S\bibinitperiod},
+           given={Ted\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ab88ec915fd2a106791b374d240a9d2}
+      \strng{fullhash}{0958b7c0b1e5860cb0f7941e99ccc4e0}
+      \strng{authornamehash}{2ab88ec915fd2a106791b374d240a9d2}
+      \strng{authorfullhash}{0958b7c0b1e5860cb0f7941e99ccc4e0}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SSDBM\textquoteright2005: proceedings of the 17th International Conference on Scientific and Statistical Database Management}
+      \field{title}{Iteration Aware Prefetching for Large Multidimensional Datasets}
+      \field{year}{2005}
+      \field{pages}{45\bibrangedash 54}
+      \range{pages}{10}
+    \endentry
+    \entry{SchmuckH02}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=787679b09e2a14f8a526fec52b11301a}{%
+           family={Schmuck},
+           familyi={S\bibinitperiod},
+           given={Frank\bibnamedelima B.},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=209ef1cecd1e0d9d46bdb04d778007dc}{%
+           family={Haskin},
+           familyi={H\bibinitperiod},
+           given={Roger\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a233587f47d3baeaba7ff96230cc14e}
+      \strng{fullhash}{1a233587f47d3baeaba7ff96230cc14e}
+      \strng{authornamehash}{1a233587f47d3baeaba7ff96230cc14e}
+      \strng{authorfullhash}{1a233587f47d3baeaba7ff96230cc14e}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {FAST} '02 Conference on File and Storage Technologies}
+      \field{title}{{GPFS:} {A} Shared-Disk File System for Large Computing Clusters}
+      \field{year}{2002}
+      \field{pages}{231\bibrangedash 244}
+      \range{pages}{14}
+    \endentry
+    \entry{ShenK97}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=936f45ae9dd073b0a9d0cbde1e8f2864}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={Han-Wei},
+           giveni={H\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=d7562f8b846ee6f03588cb36a7b73538}{%
+           family={Kao},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a39570942714f3998bb4b0f99f573157}
+      \strng{fullhash}{a39570942714f3998bb4b0f99f573157}
+      \strng{authornamehash}{a39570942714f3998bb4b0f99f573157}
+      \strng{authorfullhash}{a39570942714f3998bb4b0f99f573157}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Visualization 1997}
+      \field{title}{{UFLIC}: A Line Integral Convolution Algorithm for Visualizing Unsteady Flows}
+      \field{year}{1997}
+      \field{pages}{317\bibrangedash 322}
+      \range{pages}{6}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/ShenK97.pdf:PDF
+      \endverb
+    \endentry
+    \entry{silva2002out}{article}{}
+      \name{author}{4}{}{%
+        {{hash=fdca0104e74a69f54198c0e554977578}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4340ed19e9ca631cee58a6626f413b54}{%
+           family={Chiang},
+           familyi={C\bibinitperiod},
+           given={Yi-Jen},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=71067dde6b43eee444be6ddc865f6ffc}{%
+           family={El-Sana},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Jihad},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6347d7c65093895a710e9e3e4e1dada1}{%
+           family={Lindstrom},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{98f15f0077d5000e6aff17bcd333a821}
+      \strng{fullhash}{ec3621087562e8545c8854c32036538c}
+      \strng{authornamehash}{98f15f0077d5000e6aff17bcd333a821}
+      \strng{authorfullhash}{ec3621087562e8545c8854c32036538c}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Visualization Course Notes}
+      \field{title}{Out-of-core Algorithms for Scientific Visualization and Computer Graphics}
+      \field{year}{2002}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/silva2002out.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Simon91}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Horst\bibnamedelima D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea7b65be7ed3b8530986ca1ecfbe4e6b}
+      \strng{fullhash}{ea7b65be7ed3b8530986ca1ecfbe4e6b}
+      \strng{authornamehash}{ea7b65be7ed3b8530986ca1ecfbe4e6b}
+      \strng{authorfullhash}{ea7b65be7ed3b8530986ca1ecfbe4e6b}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computing Systems in Engineering}
+      \field{number}{2-3}
+      \field{title}{Partitioning of Unstructured Problems for Parallel Processing}
+      \field{volume}{2}
+      \field{year}{1991}
+      \field{pages}{135\bibrangedash 148}
+      \range{pages}{14}
+    \endentry
+    \entry{tao1994progressive}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=11dc1e23f92ce661c557deef3a497947}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Hai},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7e95b01b3ccc8580559c243ee73e2484}{%
+           family={Moorhead},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{90e18eff86f0af3d8a41a0aa154ec00b}
+      \strng{fullhash}{90e18eff86f0af3d8a41a0aa154ec00b}
+      \strng{authornamehash}{90e18eff86f0af3d8a41a0aa154ec00b}
+      \strng{authorfullhash}{90e18eff86f0af3d8a41a0aa154ec00b}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the conference on Visualization'94}
+      \field{title}{Progressive transmission of scientific data using biorthogonal wavelet transform}
+      \field{year}{1994}
+      \field{pages}{93\bibrangedash 99}
+      \range{pages}{7}
+    \endentry
+    \entry{TchiboukdjianDR10}{article}{}
+      \name{author}{3}{}{%
+        {{hash=96783e244b10c2507d7f8e55c65f66b4}{%
+           family={Tchiboukdjian},
+           familyi={T\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1aaf885c0f99b551d4ed58362d2d332c}{%
+           family={Danjean},
+           familyi={D\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8b2279c645286e3d3113d85a4b617edd}{%
+           family={Raffin},
+           familyi={R\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5dc101f993d04bcc72ff5340b4f2207b}
+      \strng{fullhash}{5dc101f993d04bcc72ff5340b4f2207b}
+      \strng{authornamehash}{5dc101f993d04bcc72ff5340b4f2207b}
+      \strng{authorfullhash}{5dc101f993d04bcc72ff5340b4f2207b}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Trans. Vis. Comput. Graph.}
+      \field{number}{5}
+      \field{title}{Binary Mesh Partitioning for Cache-Efficient Visualization}
+      \field{volume}{16}
+      \field{year}{2010}
+      \field{pages}{815\bibrangedash 828}
+      \range{pages}{14}
+    \endentry
+    \entry{UengSM97}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8bc84346f4b422f163e8433ec46e1882}{%
+           family={Ueng},
+           familyi={U\bibinitperiod},
+           given={Shyh{-}Kuang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ba1b64e303f220f522452e3a8be241b5}{%
+           family={Sikorski},
+           familyi={S\bibinitperiod},
+           given={Christopher\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=cb03d5e2819d62c80afa5febdaac4a3a}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Kwan{-}Liu},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{90168b95ee2e8e4fc6d239456e02fccd}
+      \strng{fullhash}{90168b95ee2e8e4fc6d239456e02fccd}
+      \strng{authornamehash}{90168b95ee2e8e4fc6d239456e02fccd}
+      \strng{authorfullhash}{90168b95ee2e8e4fc6d239456e02fccd}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{4}
+      \field{title}{Out-of-Core Streamline Visualization on Large Unstructured Meshes}
+      \field{volume}{3}
+      \field{year}{1997}
+      \field{pages}{370\bibrangedash 380}
+      \range{pages}{11}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/UengSM97.pdf:PDF
+      \endverb
+    \endentry
+    \entry{usevitch2005jpeg2000}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=79f3c7a4278f5744a2882bf3a654c7ea}{%
+           family={Usevitch},
+           familyi={U\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{79f3c7a4278f5744a2882bf3a654c7ea}
+      \strng{fullhash}{79f3c7a4278f5744a2882bf3a654c7ea}
+      \strng{authornamehash}{79f3c7a4278f5744a2882bf3a654c7ea}
+      \strng{authorfullhash}{79f3c7a4278f5744a2882bf3a654c7ea}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Data Compression Conference}
+      \field{title}{JPEG2000 compliant lossless coding of floating point data}
+      \field{year}{2005}
+      \field{pages}{484}
+      \range{pages}{1}
+    \endentry
+    \entry{VermaKP00}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=2335ab4448063c3a659cbb51dd42ce2d}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c60bfeaf57de446e54f0ca84a91c4cf3}{%
+           family={Kao},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima T.},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=c981a4e493af350c1d8aca50c9edc629}{%
+           family={Pang},
+           familyi={P\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{21d815106c952aca7e04cd449a4067c5}
+      \strng{fullhash}{21d815106c952aca7e04cd449a4067c5}
+      \strng{authornamehash}{21d815106c952aca7e04cd449a4067c5}
+      \strng{authorfullhash}{21d815106c952aca7e04cd449a4067c5}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of {IEEE} Visualization 2000, Hilton Hotel, Salt Lake City, Utah, USA}
+      \field{title}{A Flow-guided Streamline Seeding Strategy}
+      \field{year}{2000}
+      \field{pages}{163\bibrangedash 170}
+      \range{pages}{8}
+    \endentry
+    \entry{YoonL06}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cf7bfc61035ed80e470ddc6b734b0bf8}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Sung-eui},
+           giveni={S\bibinithyphendelim e\bibinitperiod}}}%
+        {{hash=6347d7c65093895a710e9e3e4e1dada1}{%
+           family={Lindstrom},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c10f5ee6e7486440f3c5a649cfd7415}
+      \strng{fullhash}{5c10f5ee6e7486440f3c5a649cfd7415}
+      \strng{authornamehash}{5c10f5ee6e7486440f3c5a649cfd7415}
+      \strng{authorfullhash}{5c10f5ee6e7486440f3c5a649cfd7415}
+      \field{sortinit}{Y}
+      \field{sortinithash}{f86c10978eb0c0879609ce6a4f43da7b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{5}
+      \field{title}{Mesh Layouts for Block-Based Caches}
+      \field{volume}{12}
+      \field{year}{2006}
+      \field{pages}{1213\bibrangedash 1220}
+      \range{pages}{8}
+    \endentry
+    \entry{YoonLPM05}{article}{}
+      \name{author}{4}{}{%
+        {{hash=dc11e7d59b5b50773ebaffa6b7823983}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Sung-Eui},
+           giveni={S\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=6347d7c65093895a710e9e3e4e1dada1}{%
+           family={Lindstrom},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=75e7a998b4cbe609b37612606fc7ac03}{%
+           family={Pascucci},
+           familyi={P\bibinitperiod},
+           given={Valerio},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d350899843e74c7cb6f945d48def0dfa}{%
+           family={Manocha},
+           familyi={M\bibinitperiod},
+           given={Dinesh},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{cce04cc321957ec97622cd84ae9e25ac}
+      \strng{fullhash}{18d07654560ad714fc98a162ef038176}
+      \strng{authornamehash}{cce04cc321957ec97622cd84ae9e25ac}
+      \strng{authorfullhash}{18d07654560ad714fc98a162ef038176}
+      \field{sortinit}{Y}
+      \field{sortinithash}{f86c10978eb0c0879609ce6a4f43da7b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Graphics}
+      \field{number}{3}
+      \field{title}{Cache-Oblivious Mesh Layouts}
+      \field{volume}{24}
+      \field{year}{2005}
+      \field{pages}{886\bibrangedash 893}
+      \range{pages}{8}
+    \endentry
+    \entry{YuWM07}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=33f6951313e304e920d20173a49e32c2}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Hongfeng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8b85f03ba7454732881a835a7999d7d5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Chaoli},
+           giveni={C\bibinitperiod}}}%
+        {{hash=cb03d5e2819d62c80afa5febdaac4a3a}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Kwan{-}Liu},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6c7624f49c0cfa81cc1b07db930396f}
+      \strng{fullhash}{b6c7624f49c0cfa81cc1b07db930396f}
+      \strng{authornamehash}{b6c7624f49c0cfa81cc1b07db930396f}
+      \strng{authorfullhash}{b6c7624f49c0cfa81cc1b07db930396f}
+      \field{sortinit}{Y}
+      \field{sortinithash}{f86c10978eb0c0879609ce6a4f43da7b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SC07: Proceedings of the ACM/IEEE Conference on Supercomputing}
+      \field{title}{Parallel Hierarchical Visualization of Large Time-Varying {3D} Vector Fields}
+      \field{year}{2007}
+      \field{pages}{24:1\bibrangedash 24:12}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :/home/jiangzhang/paper/reading/particle tracing/YuWM07.pdf:PDF
+      \endverb
+    \endentry
+    \entry{ZhangGY16}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=9aca7f001a4c2f1a7040984fa5f91cff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dce824d517fe9b3cecb2f22bb57744f}
+      \strng{fullhash}{4dce824d517fe9b3cecb2f22bb57744f}
+      \strng{authornamehash}{4dce824d517fe9b3cecb2f22bb57744f}
+      \strng{authorfullhash}{4dce824d517fe9b3cecb2f22bb57744f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of IEEE Pacific Visualization Symposium 2016}
+      \field{title}{Efficient Unsteady Flow Visualization with High-Order Access Dependencies}
+      \field{year}{2016}
+      \field{pages}{80\bibrangedash 87}
+      \range{pages}{8}
+    \endentry
+    \entry{ZhangGYP18}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=9aca7f001a4c2f1a7040984fa5f91cff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c425d00f24b7ee27abe9566b2c0fce66}
+      \strng{fullhash}{5e00628916fdfb8492916a1449643cb9}
+      \strng{authornamehash}{c425d00f24b7ee27abe9566b2c0fce66}
+      \strng{authorfullhash}{5e00628916fdfb8492916a1449643cb9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of {IEEE} Pacific Visualization Symposium 2018}
+      \field{title}{Dynamic Data Repartitioning for Load-Balanced Parallel Particle Tracing}
+      \field{year}{2018}
+      \field{pages}{86\bibrangedash 95}
+      \range{pages}{10}
+    \endentry
+    \entry{ZhangGHYP18}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9aca7f001a4c2f1a7040984fa5f91cff}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiang},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9653120f955673f3cb7a93e45484120f}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hanqi},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4734c59dbdcbc1ce55543cc30c2e35f8}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8af2b46570fe22e3c3a7d2ae4f36d6ef}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaoru},
+           giveni={X\bibinitperiod}}}%
+        {{hash=68fd37f50fed15aa26e0691627962bc0}{%
+           family={Peterka},
+           familyi={P\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c425d00f24b7ee27abe9566b2c0fce66}
+      \strng{fullhash}{ccd79ad35d5935f1f8f65eeeb0c35c2f}
+      \strng{authornamehash}{c425d00f24b7ee27abe9566b2c0fce66}
+      \strng{authorfullhash}{ccd79ad35d5935f1f8f65eeeb0c35c2f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Trans. Vis. Comput. Graph.}
+      \field{number}{1}
+      \field{title}{Dynamic Load Balancing Based on Constrained {K-D} Tree Decomposition for Parallel Particle Tracing}
+      \field{volume}{24}
+      \field{year}{2018}
+      \field{pages}{954\bibrangedash 963}
+      \range{pages}{10}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
