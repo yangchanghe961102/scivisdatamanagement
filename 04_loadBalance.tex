@@ -14,10 +14,10 @@
 此外，随着现代科技和计算技术的高速发展，流场数据的数据量正以几何级数的速度增长。流场本身和相关的分析任务也呈现出越来越复杂的趋势。
 特别地，在一些诸如线积分卷积(line integral convolution, LIC)\parencite{CabralL93,ShenK97}、
 基于有限时间李雅普诺夫指数(finite-time Lyapunov exponents, FTLE)计算的拉格朗日拟序结构(Lagrangian coherent structures, LCS)
-提取\parencite{Haller2001,GarthGTH07}以及流场曲面(flow surface)计算\parencite{EdmundsLCMZW12}、
+提取\parencite{GarthGTH07,Haller2001}以及流场曲面(flow surface)计算\parencite{EdmundsLCMZW12}、
 源汇查询(source-destination queries)\parencite{KendallWAPHE11}等基于场线的应用中，往往需要进行复杂的粒子追踪计算。
 现实应用中单台处理机由于内存和计算能力等的限制，很难满足这种大规模粒子追踪的计算需求。
-而早前研究者所使用的核外(out-of-core)技术\parencite{silva2002out,BruckschenKHJ01,EllsworthGM04}
+而早前研究者所使用的核外(out-of-core)技术\parencite{BruckschenKHJ01,EllsworthGM04,silva2002out}
 因其I/O瓶颈在大规模流场数据中也变得越来越不适用。
 
 %流场可视化中采用并行计算的优势
@@ -90,7 +90,7 @@
 %\setlength{\abovecaptionskip}{0.05cm} 
 %\setlength{\belowcaptionskip}{-0.20cm}
   \centering
-  \includegraphics[width=0.8\linewidth,keepaspectratio]{image/loadbalance/workrequesting.eps}
+  \includegraphics[width=0.7\linewidth,keepaspectratio]{image/loadbalance/workrequesting.eps}
   \caption{
     基于工作请求的动态任务重分配算法\parencite{MullerCHG13}。
  }
@@ -105,7 +105,7 @@
   \centering
   \includegraphics[width=0.99\linewidth]{image/loadbalance/basic-idea}
   \caption{
-    基于一般k-d树分解的和新的带有约束的k-d树分解的粒子重分配示例。\parencite{ZhangGHYP18}
+    基于一般k-d树分解的和新的带有约束的k-d树分解的粒子重分配示例\parencite{ZhangGHYP18}。
     在图(a)和(b)中，实线表示的切分线将粒子尽量划分均匀。
     图(b)中的虚线展示了由ghost层组成的数据重叠区域，其限制了切分线的位置。
   }
