@@ -1,6 +1,6 @@
 \section{数据约减策略}
-\subsection{体数据可视化中的数据压缩技术}
 随着高性能计算技术的发展，尤其在气象模拟、海洋洋流模拟以及计算流体动力学等研究领域，计算生成的数据规模越来越大，复杂性越来越高。使用现有可视化方法对这些数据进行分析变得更加困难，甚至一些数据集大到无法存储。这对大量数据可视化提出了新的机遇与挑战，包括对数据的存储、管理以及访问。数据约减（压缩）是一种常用的数据管理手段，它通过减少数据的体量来增加研究人员对大规模数据的分析能力。
+\subsection{体数据可视化中的数据压缩技术}
 为了可视化或分析大规模科学数据，压缩是最有用的技术之一。在科学可视化中，压缩技术主要应用于体数据。 1994年，Tao等人提出了一种基于小波的压缩方法\cite{tao1994progressive}，它通过无损压缩保持高精度的数据。Ratanaworabhan等人提出了一种基于快速哈希表查找预测的科学浮点数据的快速无损压缩方法\cite{ratanaworabhan2006fast}。Fout等人通过提出一种基于自适应预测的方法\cite{fout2012adaptive}改进了基于预测的压缩方法。为了提高压缩比，JPEG2000\cite{usevitch2005jpeg2000}是一种通用的方法，提供无损和有损模式。另一种有效且快速的压缩方法是fpzip算法\cite{isenburg2005lossless}，它适用于各种整数数据集。最近有人提出了zfp算法\cite{lindstrom2014fixed}，它是一种几乎无损的方法，允许用户指定精度，并支持随机块访问。为了加快压缩速度，并行化压缩方法也是一种有效的方法\cite{bi20142}。也有对路径进行压缩的工作\cite{ellsworth2004interactive}，在这项工作中使用了基于预测的无损算法，它将粒子的存储量减少了41％，并使粒子检索速度提高了约20％。F. Hong等人提出了一种分层和混合压缩方案\cite{hong2017compression}，利用八叉树空间划分来自适应地平衡高压缩比、误差和低减压成本。
 
 \subsection{大规模流场可视化中的数据压缩技术}
@@ -34,7 +34,7 @@
 	\centering
 	\includegraphics[width=.7\columnwidth]{image/linecompress/workflow.eps}
 	\caption{
-	基于压缩的积分曲线重用框架的流程。\parencite{hong2017compression}
+	基于压缩的积分曲线重用框架的流程\parencite{hong2017compression}。
 	}
 	\label{fig:workflow}
 \end{figure}
@@ -56,7 +56,7 @@
   \centering
   \includegraphics[width=.75\columnwidth]{image/linecompress/recursion.eps}
   \caption{
-  基于八叉树空间划分的自适应大小块压缩算法。\parencite{hong2017compression}
+  基于八叉树空间划分的自适应大小块压缩算法\parencite{hong2017compression}。
   }
   \label{fig:recursion}
 \end{figure}
