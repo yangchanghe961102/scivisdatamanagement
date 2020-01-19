@@ -34,7 +34,7 @@ doc:
 clean:
 	del $(JOB).aux $(JOB).bbl $(JOB).bcf $(JOB).blg $(JOB).dvi \
 		$(JOB).lof $(JOB).log $(JOB).lot $(JOB).run.xml $(JOB).toc \
-		$(JOB).out $(JOB).out.bak missfont.log texput.log
+		$(JOB).out $(JOB).out.bak references.bbl references.blg
 
 distclean: clean
 	$(RM) $(JOB).pdf
